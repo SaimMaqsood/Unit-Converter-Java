@@ -1,6 +1,4 @@
 # Unit-Converter-Java
-# Unit Conversion Program (Java)
-
 A simple console-based program that converts between different units of measurement.
 
 ### What it does
